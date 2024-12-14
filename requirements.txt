@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+streamlit-folium
+matplotlib
+folium
+plotly
+fpdf
+selenium
+webdriver-manager
